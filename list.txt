@@ -15,6 +15,10 @@ dimwishlist:item=3257091166&perks=3666208348,3625355092,1749209109,2077819806
 //notes: PVE God Roll.
 dimwishlist:item=3257091167&perks=3666208348,2349202967,1749209109,1546637391
 
+// Combatiente BXR-55 - PVE
+//notes: PVE God Roll. https://www.gamepur.com/guides/how-to-get-the-bxr-55-battler-and-best-god-rolls-in-destiny-2
+dimwishlist:item=2708806099&perks=1482024992,3230963543,3523296417,11612903
+
 // -----------------
 
 // Arrepentimiento de Reed - PVE
