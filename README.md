@@ -1,1 +1,1 @@
-# dim-wish-list-sources
+# DIM Wishlist
