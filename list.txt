@@ -3,5 +3,6 @@
 title:This is a compiled collection of god/recommended rolls.
 description:Created by Zoilo Mora.
 
-// Vulpecula: https://www.shacknews.com/article/126374/vulpecula-god-roll-destiny-2
-dimwishlist:item=1622998472&perks=3250034553,3142289711,1195158366,124408337#notes:Godroll PvE.
+// Verdades a Medias - Speedrun
+//notes: Speedrun God Roll. Modificador recomendado: Cargador de acceso rápido.
+dimwishlist:item=3257091166&perks=3666208348,3625355092,1749209109,2077819806
