@@ -11,6 +11,10 @@ dimwishlist:item=2776503072&perks=839105230,2420895100,4267945040,2848615171
 //notes: PVE God Roll
 dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,3194351027
 
+// Verdades a Medias - PVE
+//notes: PVE God Roll.
+dimwishlist:item=3257091166&perks=3666208348,2349202967,1749209109,2077819806
+
 // Verdades a Medias - Speedrun
 //notes: Speedrun God Roll. Modificador recomendado: Cargador de acceso rápido.
 dimwishlist:item=3257091166&perks=3666208348,3625355092,1749209109,2077819806
