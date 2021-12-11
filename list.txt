@@ -11,10 +11,6 @@ dimwishlist:item=3257091166&perks=3666208348,3625355092,1749209109,2077819806
 //notes: PVE God Roll
 dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,3194351027
 
-// Sucesión - PVE
-//notes: PVE God Roll
-dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
-
 // -----------------
 
 // Arrepentimiento de Reed - PVE
