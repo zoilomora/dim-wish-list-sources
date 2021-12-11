@@ -7,6 +7,12 @@ description:Created by Zoilo Mora.
 //notes: Speedrun God Roll. Modificador recomendado: Cargador de acceso rápido.
 dimwishlist:item=3257091166&perks=3666208348,3625355092,1749209109,2077819806
 
+// Temperamental (Experto) - PVE
+//notes: PVE God Roll
+dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,3194351027
+
+// -----------------
+
 // Arrepentimiento de Reed - PVE
 //notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article https://knowtheroll.com/pve-god-roll-reeds-regret/
 dimwishlist:item=1399243961&perks=839105230,2969185026,2284787283,1546637391,2697220197
