@@ -3,15 +3,15 @@
 title:This is a compiled collection of god/recommended rolls.
 description:Created by Zoilo Mora.
 
-// Caza Real - PVE
+// Caza Real - PvE
 //notes: PVE God Roll.
 dimwishlist:item=2776503072&perks=839105230,2420895100,4267945040,2848615171
 
-// Temperamental (Experto) - PVE
+// Temperamental (Experto) - PvE
 //notes: PVE God Roll
 dimwishlist:item=1866778462&perks=3525010810,2822142346,3977735242,3194351027
 
-// Verdades a Medias - PVE
+// Verdades a Medias - PvE
 //notes: PVE God Roll.
 dimwishlist:item=3257091166&perks=3666208348,2349202967,1749209109,2077819806
 
@@ -19,32 +19,36 @@ dimwishlist:item=3257091166&perks=3666208348,2349202967,1749209109,2077819806
 //notes: Speedrun God Roll. Modificador recomendado: Cargador de acceso rápido.
 dimwishlist:item=3257091166&perks=3666208348,3625355092,1749209109,2077819806
 
-// La Otra Mitad - PVE
+// La Otra Mitad - PvE
 //notes: PVE God Roll.
 dimwishlist:item=3257091167&perks=3666208348,2349202967,1749209109,1546637391
 
+// Sendero Rastreado - PvE
+//notes: Good PvE. (M+KB): Calibre Superior. (Gamepad): Estriado Poligonal
+dimwishlist:item=548958835&perks=202670084,1392496348,732557052,1820235745,2610012052
+
 // -----------------
 
-// Arrepentimiento de Reed - PVE
+// Arrepentimiento de Reed - PvE
 //notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article https://knowtheroll.com/pve-god-roll-reeds-regret/
 dimwishlist:item=1399243961&perks=839105230,2969185026,2284787283,1546637391
 
-// Acción Legal II - PVE
+// Acción Legal II - PvE
 //notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-legal-action-ii/
 dimwishlist:item=3409645497&perks=4090651448,106909392,2779035018,3425386926
 
-// Licántropo de Braytech - PVE
+// Licántropo de Braytech - PvE
 //notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article https://knowtheroll.com/pve-god-roll-braytech-werewolf/
 dimwishlist:item=528834068&perks=1482024992,3230963543,1354429876,1546637391
 
-// Eyasluna - PVE
+// Eyasluna - PvE
 //notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-eyasluna/
 dimwishlist:item=235827225&perks=1926090094,3230963543,1168162263,1015611457
 
-// Sendero Rastreado - PVE
+// Sendero Rastreado - PvE
 //notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-retraced-path/
 dimwishlist:item=548958835&perks=1482024992,732557052,1820235745,4049631843
 
-// Combatiente BXR-55 - PVE
+// Combatiente BXR-55 - PvE
 //notes: PVE God Roll. Recommended Masterwork & Mod - Range & Minor Spec - Link to article https://knowtheroll.com/pve-god-roll-bxr-55-battler/
 dimwishlist:item=2708806099&perks=1482024992,3230963543,3523296417,11612903
