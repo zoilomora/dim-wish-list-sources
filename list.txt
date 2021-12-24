@@ -3,6 +3,16 @@
 title:This is a compiled collection of god/recommended rolls.
 description:Created by Zoilo Mora.
 
+// -- Excepcionales --------------------------------------------------------------------------------
+
+// Ala Vigilante
+dimwishlist:item=3628991659&perks=4090651448,1431678320,4146729347,3465198467
+
+// Arbalesta
+dimwishlist:item=2130065553&perks=3465198467,3871884143,2969185026,1467527085
+
+// -- Personal -------------------------------------------------------------------------------------
+
 // Caza Real - PvE
 //notes: God Roll PvE.
 dimwishlist:item=2776503072&perks=839105230,2420895100,4267945040,2848615171
