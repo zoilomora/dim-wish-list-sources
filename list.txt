@@ -277,7 +277,7 @@ dimwishlist:item=3257091166&perks=3666208348,3625355092,1749209109,2077819806
 dimwishlist:item=3257091167&perks=3666208348,2349202967,1749209109,1546637391
 
 // Sendero Rastreado - PvE
-//notes: Good PvE. (M+KB): Calibre Superior. (Gamepad): Estriado Poligonal.
+//notes: Apokalipsys ZR7: PvE God Roll. (M+KB): Calibre Superior. (Gamepad): Estriado Poligonal.
 dimwishlist:item=548958835&perks=202670084,1392496348,732557052,1820235745,2610012052
 
 
