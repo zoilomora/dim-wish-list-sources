@@ -289,6 +289,16 @@ dimwishlist:item=2708806099&perks=839105230,3142289711,3523296417,11612903
 dimwishlist:item=2708806099&perks=839105230,3177308360,3523296417,11612903
 dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,11612903
 
+// Glacioclasta - PvE
+//notes: Daykyri: PvE God Roll. https://www.youtube.com/watch?v=Lk86XZvENd0
+dimwishlist:item=1030895163&perks=839105230,1687452232,1820235745,3161816588,1427256713
+
+//notes: Daykyri: PvE God Roll. Grandes oleadas de enemigos. https://www.youtube.com/watch?v=Lk86XZvENd0
+dimwishlist:item=1030895163&perks=839105230,1687452232,1820235745,1427256713
+
+//notes: Daykyri: PvE God Roll. Jefes. https://www.youtube.com/watch?v=Lk86XZvENd0
+dimwishlist:item=1030895163&perks=839105230,1687452232,3161816588,1427256713
+
 
 // -- Know The Roll -------------------------------------------------------------------------------
 
