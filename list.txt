@@ -251,7 +251,12 @@ dimwishlist:item=2694576561&perks=1844523823,2822142346,777637181,3465198467
 // -- Personal -------------------------------------------------------------------------------------
 
 // Drang
+//notes: Banshee-44: Sinergia con Sturm.
 dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711
+
+// MiniHerramienta Mida
+//notes: Banshee-44: Sinergia con MultiHerramienta Mida.
+dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
 
 // Mentira de Felwinter
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,3436462433,47981717,1546637391
