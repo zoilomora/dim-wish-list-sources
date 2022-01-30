@@ -317,6 +317,8 @@ dimwishlist:item=1030895163&perks=839105230,1687452232,3161816588,1427256713
 //notes: Temporada 15: Mejor DPS para PvE. Obra maestra y modificador recomendado - Tiempo de carga y Especialización en Jefes. https://www.youtube.com/watch?v=z8HyLRHJb08
 dimwishlist:item=2481881293&perks=13792279,689005463,1556840489,1546637391
 
+// Alerta de Spoiler
+dimwishlist:item=2588048270&perks=445755707,2420895100,2779035018,4104185692
 
 // -- Know The Roll -------------------------------------------------------------------------------
 
