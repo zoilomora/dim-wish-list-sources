@@ -327,6 +327,13 @@ dimwishlist:item=1030895163&perks=839105230,1687452232,1820235745,1427256713
 //notes: Daykyri: PvE God Roll. Jefes. https://www.youtube.com/watch?v=Lk86XZvENd0
 dimwishlist:item=1030895163&perks=839105230,1687452232,3161816588,1427256713
 
+// Catastrófico
+//notes: Daykyri: PvE God Roll. https://www.youtube.com/watch?v=3TaA2yTdIl0&t=508s
+dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,3078487919,3363267119
+dimwishlist:item=999767358&perks=839105230,2680121939,848860060,3078487919,3363267119
+dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,3744057135,3363267119
+dimwishlist:item=999767358&perks=839105230,2680121939,848860060,3744057135,3363267119
+
 
 // -- Temporada 15 --------------------------------------------------------------------------------
 
