@@ -332,29 +332,10 @@ dimwishlist:item=548958835&perks=202670084,1392496348,732557052,1820235745,26100
 
 // -- Daykyri -------------------------------------------------------------------------------------
 
-// Combatiente BXR-55 - PvE
-//notes: Daykyri: PvE God Roll. https://www.youtube.com/watch?v=unLlBnmvW5Y
-dimwishlist:item=2708806099&perks=839105230,3142289711,3523296417,11612903
-dimwishlist:item=2708806099&perks=839105230,3177308360,3523296417,11612903
-dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,11612903
-
-// Glacioclasta - PvE
-//notes: Daykyri: PvE God Roll. https://www.youtube.com/watch?v=Lk86XZvENd0
-dimwishlist:item=1030895163&perks=839105230,1687452232,1820235745,3161816588,1427256713
-
-//notes: Daykyri: PvE God Roll. Grandes oleadas de enemigos. https://www.youtube.com/watch?v=Lk86XZvENd0
-dimwishlist:item=1030895163&perks=839105230,1687452232,1820235745,1427256713
-
-//notes: Daykyri: PvE God Roll. Jefes. https://www.youtube.com/watch?v=Lk86XZvENd0
-dimwishlist:item=1030895163&perks=839105230,1687452232,3161816588,1427256713
-
-// Catastrófico
-//notes: Daykyri: PvE God Roll. https://www.youtube.com/watch?v=3TaA2yTdIl0&t=508s
-dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,3078487919,3363267119
-dimwishlist:item=999767358&perks=839105230,2680121939,848860060,3078487919,3363267119
-dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,3744057135,3363267119
-dimwishlist:item=999767358&perks=839105230,2680121939,848860060,3744057135,3363267119
-
+// Avalancha S19 - PvE
+//notes: Daykyri: PvE God Roll. https://www.youtube.com/watch?v=NhUGSp_yd_o&t=345s
+dimwishlist:item=495940989&perks=839105230,1968497646,3300816228,365154968
+dimwishlist:item=495940989&perks=839105230,1885400500,3300816228,365154968
 
 // -- Temporada 15 --------------------------------------------------------------------------------
 
@@ -364,29 +345,3 @@ dimwishlist:item=2481881293&perks=13792279,689005463,1556840489,1546637391
 
 // Alerta de Spoiler
 dimwishlist:item=2588048270&perks=445755707,2420895100,2779035018,4104185692
-
-// -- Know The Roll -------------------------------------------------------------------------------
-
-// Arrepentimiento de Reed - PvE
-//notes: Recommended Masterwork & Mod - Range & Boss Spec - Link to article https://knowtheroll.com/pve-god-roll-reeds-regret/
-dimwishlist:item=1399243961&perks=839105230,2969185026,2284787283,1546637391
-
-// Acción Legal II - PvE
-//notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-legal-action-ii/
-dimwishlist:item=3409645497&perks=4090651448,106909392,2779035018,3425386926
-
-// Licántropo de Braytech - PvE
-//notes: Recommended Masterwork & Mod - Range & Backup Mag - Link to article https://knowtheroll.com/pve-god-roll-braytech-werewolf/
-dimwishlist:item=528834068&perks=1482024992,3230963543,1354429876,1546637391
-
-// Eyasluna - PvE
-//notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-eyasluna/
-dimwishlist:item=235827225&perks=1926090094,3230963543,1168162263,1015611457
-
-// Sendero Rastreado - PvE
-//notes: Recommended Masterwork & Mod - Range & Major Spec - Link to article https://knowtheroll.com/pve-god-roll-retraced-path/
-dimwishlist:item=548958835&perks=1482024992,732557052,1820235745,4049631843
-
-// Combatiente BXR-55 - PvE
-//notes: PVE God Roll. Recommended Masterwork & Mod - Range & Minor Spec - Link to article https://knowtheroll.com/pve-god-roll-bxr-55-battler/
-dimwishlist:item=2708806099&perks=1482024992,3230963543,3523296417,11612903
