@@ -332,6 +332,10 @@ dimwishlist:item=3257091167&perks=3666208348,2349202967,1749209109,1546637391
 //notes: Apokalipsys ZR7: PvE God Roll. (M+KB): Calibre Superior. (Gamepad): Estriado Poligonal.
 dimwishlist:item=548958835&perks=202670084,1392496348,732557052,1820235745,2610012052
 
+// Avalancha - PvE
+//notes: DashKappei (PvE / M+KB / Controller): Recommended MW - Stability.
+dimwishlist:item=495940989&perks=839105230,2420895100,3300816228,365154968
+dimwishlist:item=495940989&perks=839105230,1087426260,3300816228,365154968
 
 // -- Daykyri -------------------------------------------------------------------------------------
 
